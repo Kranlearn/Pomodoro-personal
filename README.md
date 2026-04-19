@@ -41,10 +41,11 @@ The logic of the play and reload buttons is governed by the (document.getElement
    ( document.getElementById('reset').style.display = "block")
 
 ###  Fonctionnality
-The timer uses JavaScript to decrement the time every second. The DOM is updated in real time to display the remaining minutes and seconds.
--Reset of timer
--Dynamic display of time
--Visual animation of the progress circle
+The timer uses JavaScript to decrement the time every second. The DOM is updated in real.
+-time to display the remaining minutes and seconds.
+-Reset of timer.
+-Dynamic display of time.
+-Visual animation of the progress circle.
 
 
 ### Uppgrade
@@ -64,14 +65,8 @@ Aucune dépendance, aucune installation requise.
 
 ```
 
-
-## Choix techniques
-
-**Pourquoi pas React ou Vue ?**
-Pour une landing page statique, HTML/CSS/JS pur est plus rapide à charger, plus simple à déployer, et suffisant. Le bon outil pour le bon besoin.
-
-**Pourquoi Playfair Display ?**
-Cette serif élégante donne un caractère luxueux et intemporel — parfaitement cohérent avec l'univers d'une montre haut de gamme.
+**Pourquoi Open sans, sans-serif ?**
+because it represents the modern and professional side through its sans-serif style.
 
 ---
 
